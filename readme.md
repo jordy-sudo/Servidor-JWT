@@ -53,7 +53,8 @@ esto nos mostrara un resultado
     }
 }
 Si no se autentica el token 
-Si el token se a autenticado
+
+## Si el token se a autenticado
 {
     "ok": true,
     "registros": 11,
@@ -84,7 +85,7 @@ caja:78
 hora:22:48
 fecha:12/04/2021
 
-Resultado
+## Resultado
 {
     "ok": true,
     "usuario": {
